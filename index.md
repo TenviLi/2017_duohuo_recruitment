@@ -271,7 +271,7 @@ My Name is **李典**
 
 三年前，**5d6d**倒闭，被**haotui**收了。**Disucz**所在的**康盛** 也被**腾讯**收购了。
 
-一年前**haotui**也倒闭了，那个[serves.haotui.com](serves.haotui.com)站也消失了。还好现在**Discuz!** 还在，貌似还是很吊的样子。但现在好像都没什么人想用这种笨重不堪的大型论坛程序了。
+一年前**haotui**也倒闭了，那个[serves.haotui.com](http://serves.haotui.com)站也消失了。还好现在**Discuz!** 还在，貌似还是很吊的样子。但现在好像都没什么人想用这种笨重不堪的大型论坛程序了。
 
 现在学`Vue.js`、`Webpack`（刚开始学这个）之类的时候的感觉，就像当初绞尽脑汁、看文档 的兴奋一样。但我已经长大了。
 
@@ -361,7 +361,7 @@ My Name is **李典**
 * **了解**了点`Hexo`（因为他博客是这玩意儿搭的）
 * **学着用了**那个超简洁的Markdown编辑器`Typora`
 * **知道**了`vue-cli`是啥子（脚手架）
-* **翻了翻**那个新的[多火官网](www.duohuo.org) 
+* **翻了翻**那个新的[多火官网](https://www.duohuo.org) 
   * **搜了**`mainifest.js` `vendor.js` `app.js`是啥子
   * 搜了[大公司里怎样开发和部署前端代码？](https://zhihu.com/question/20790576/answer/32602154)
   * 学习了一些“奇技淫巧”
