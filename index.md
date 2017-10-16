@@ -435,3 +435,24 @@ GUI编辑器有它的巨大好处。
 
 废话不多说上图：![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjsd36ersj31hc0sm7av.jpg)
 ![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjsd0myg0j31hc0smaoh.jpg)
+
+## 打个小广告
+
+# 澳门首家 线上皇家赌场 上线啦, 性感美女荷官 在线视频发牌 
+![](http://news.youth.cn/gn/201608/W020160828373972091194.gif)
+
+【误】咳咳，请忽略
+
+我有个舍友叫**陆越**
+
+精于♂ Python 精于C++
+
+掌握高级爬虫技术 掌握Pygame框架技巧
+
+熟练使用Linux
+
+掌握汇编 
+
+掌握挖掘机炒菜 履带腾空 车床削生鸡蛋 等绝艺
+
+请大家看到他请不要放过他【捂脸逃(*/ω＼*)】
