@@ -21,15 +21,6 @@ QQ Number：<font color = yellow>**1151274870**</font>
 Phone Number：<font color = yellow>**18052339019**</font>
 ## What's I have experienced
 
-### 小学时参加好多科技竞赛，有4个专利
-![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjscx9fgjj30qo0zkgoi.jpg)
-**徐正文徐老师** 是我对 科技产生兴趣的 启蒙老师，
-小学的后三年，（我在一个 一不听话或者莫名其妙 被挨打的封建家庭中），**徐老师是我小学时的精神源泉**，
-他一直鼓励着我。我甚至旷课，整天跑到他那里去。
-我参加了许许多多的科技活动，还绞尽脑汁搞发明。
-因此**成就感是我的第二个精神源泉**
-
-
 ### Discuz!小小开发者一枚
 ![](http://ww2.sinaimg.cn/large/0060lm7Tly1fkjscvomqtj303l01ua9w.jpg)
 
