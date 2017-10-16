@@ -19,7 +19,7 @@ My Name is **李典**
 ## What's I have experienced
 
 ### 小学时参加好多科技竞赛，有4个专利
-![](static/img/invention.jpg)
+![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjscx9fgjj30qo0zkgoi.jpg)
 **徐正文徐老师** 是我对 科技产生兴趣的 启蒙老师，
 小学的后三年，（我在一个 一不听话或者莫名其妙 被挨打的封建家庭中），**徐老师是我小学时的精神源泉**，
 他一直鼓励着我。我甚至旷课，整天跑到他那里去。
@@ -28,7 +28,7 @@ My Name is **李典**
 
 
 ### Discuz!小小开发者一枚
-![](static/img/discuz.png)
+![](http://ww2.sinaimg.cn/large/0060lm7Tly1fkjscvomqtj303l01ua9w.jpg)
 
 *//就当是写自传了,好久都没有回忆起这些了，好怀念QAQ*
 
@@ -321,7 +321,7 @@ My Name is **李典**
 我又想起了`当初去NOIP右边坐的那个市里面中学的人使用了26重循环做出答案`对我眼睛的杀伤力...
 
 ### 上了大学...
-![](static/img/nuist.jpg)
+![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjscvpjmqj303d03dq30.jpg)
 
 **喜欢**这个词，总是那么玄幻的。
 就像`PHP`一样，现在`Python`那么火，我还是没提起对这个py开头的语言的太多的兴趣。
@@ -402,7 +402,7 @@ My Name is **李典**
 我还发现一个好用的插件叫`Markdown All in One`，好用的炸上天，有快捷键很爽。。。
 5. “趴在木板上不断地摸索与练习”，基本的语法我已经熟练了，流程图、公式神马的。。。以后再说吧，，，
 
-![](static/img/screenshot_1.png)
+![](http://ww1.sinaimg.cn/large/0060lm7Tly1fkjscwzufnj30jp0f6mzb.jpg)
 
 **题外话**
 
@@ -438,5 +438,5 @@ GUI编辑器有它的巨大好处。
 
 写作的话以后我肯定会力推`Markdown`哒
 
-废话不多说上图：![](static/img/screenshot_2.png)
-![](static/img/screenshot_3.png)
+废话不多说上图：![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjsd36ersj31hc0sm7av.jpg)
+![](http://ww4.sinaimg.cn/large/0060lm7Tly1fkjsd0myg0j31hc0smaoh.jpg)
