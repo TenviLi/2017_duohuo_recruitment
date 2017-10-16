@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-My Name is **李典**
+My Name is <font color = yellow>**李典**</font>
 
 **17** 岁（But 身份证上填的日期是199908）
 
@@ -16,6 +16,9 @@ My Name is **李典**
 6. emmmmm 我很 **纯洁** 的
 7. **努力学习 争分夺秒ing**
 
+QQ Number：<font color = yellow>**1151274870**</font>
+
+Phone Number：<font color = yellow>**18052339019**</font>
 ## What's I have experienced
 
 ### 小学时参加好多科技竞赛，有4个专利
