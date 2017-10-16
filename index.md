@@ -1,5 +1,5 @@
 # 这是 啊哈呵嗨 的自我介绍
-
+![](http://qlogo4.store.qq.com/qzone/1151274870/1151274870/100)
 ## 基本信息
 
 My Name is <font color = yellow>**李典**</font>
